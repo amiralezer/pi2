@@ -1,5 +1,0 @@
-streamlit
-plotly
-polars
-connectorx
-lttbc
